@@ -1,0 +1,24 @@
+body {
+    font-family: 'Figtree', sans-serif;
+    background-color: #f0f0f0; /* Warna latar belakang untuk seluruh halaman */
+}
+
+.custom-header {
+    background-color: #4caf50; /* Warna hijau untuk header */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.custom-button {
+    background-color: #4caf50; /* Warna hijau untuk tombol */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-button:hover {
+    background-color: #45a049; /* Warna hijau lebih gelap untuk tombol saat dihover */
+}
